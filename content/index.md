@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Оглавление
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started!!
+## How the web works
+
+- [[Основы HTTP-протокола]]
